@@ -1,3 +1,6 @@
 # Allan
 Project manager    
-Bioinformatician
+Bioinformatician    
+## Okeyo Allan    
+Pwani University    
+Bioinformatics intern at *icipe*
