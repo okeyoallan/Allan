@@ -1,3 +1,3 @@
 # Allan\
 Project manager\
-Bioinformatician\
+Bioinformatician
